@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Riveros</h1>
-<h3 align="center">I'm deeply interested in Data analyst</h3>
+<h3 align="center">I'm deeply interested in Data Analysis</h3>
 
 - 💬 Ask me about **python, SQL Server, Power BI, Excel, HTML**
 
